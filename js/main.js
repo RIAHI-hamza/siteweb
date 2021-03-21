@@ -115,3 +115,9 @@
 	});
 
 })(jQuery);
+
+function resetForm() {
+  document.getElementById("contactForm").reset();
+}
+
+
